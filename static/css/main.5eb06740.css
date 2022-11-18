@@ -5,7 +5,7 @@
   border-style: none solid solid none;
   border-width: medium 1px 1px medium;
   box-shadow: 0 1px 2px rgba(0, 0, 0, 0.12) inset;
-  color: #555555;height:40px;width:100%}.dashboard .myForm input::-webkit-input-placeholder{color:#fff;padding-left:10px}.dashboard .myForm input::placeholder{color:#fff;padding-left:10px}.dashboard .myForm textarea{ margin-top: 10px;
+  color: #555555;height:40px;width:100%}.dashboard .myForm input::-webkit-input-placeholder{color:#fff;padding-left:10px}.dashboard .myForm input::placeholder{color:blue;padding-left:1rem}.dashboard .myForm textarea{ margin-top: 10px;
   margin-left: 5px;
   width: 100%;
   height: 400px;
